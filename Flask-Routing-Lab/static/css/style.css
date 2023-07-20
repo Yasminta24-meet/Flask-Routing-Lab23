@@ -3,11 +3,11 @@
   height: 200px;
   border-radius: 50%;
 }
-h1{
+#title{
 	text-align: center;
 	font-family: "Lucida Console", "Courier New", monospace;
 }
-body{
+.bod{
   background-color: #627264;
 }
 header {
@@ -35,3 +35,7 @@ header::after{
 #prod{
 	text-align: center;
 }
+
+/*.ph{
+	width: 290px;
+}*/
